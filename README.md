@@ -5,4 +5,4 @@ This Python app allows the user add 2D vectors to a plane and sum up all the vec
 If you plan to run this app, please make sure to have an updated version of Python and Pygame installed.
 
 # Controls
-Press 'c' to remove all added vectors and press '1' to sum up all vectors and display the sum.
+Click 2 spots on the window to create 1 vector. Press 'c' to remove all added vectors and press '1' to sum up all vectors and display the sum.
